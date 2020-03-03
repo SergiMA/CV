@@ -55,6 +55,10 @@ header nav > a:last-child::before {
   border: none;
 }
 
+header > h1 {
+  margin: 20px 10%;
+}
+
 .logo {
   width: 150px;
 }
